@@ -1,0 +1,129 @@
+h1{
+    background: radial-gradient(rgb(0, 255, 21) , rgb(238, 255, 0), rgb(153, 0, 255));
+    background-clip: text;
+    color: transparent;
+    font-size: 60px;;
+    text-align: center;
+    max-width: auto;
+    margin: auto;
+    box-sizing: border-box;
+}
+.header{
+   
+    max-width: auto;
+    position: relative;
+}
+div {
+    max-width: auto;
+    position: relative;
+}
+.roblox{
+    color: rgb(48, 92, 56);
+    font-size: 100px;
+    font-style: oblique;
+    max-width: 1000px;
+    height: 250px;
+    background: 0%;
+   position: absolute;
+    top: 10%;
+    left: 17%;
+}
+
+.KL{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px solid white;
+    overflow: hidden;
+}
+
+.BF{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px solid white;
+    overflow: hidden;
+}
+
+.img-KL{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    overflow: calc();
+    animation: slide 20s linear infinite;
+   
+}
+@keyframes slide {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+}
+
+.img-BF{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    overflow: calc();
+    animation: slide 20s linear infinite;
+   
+}
+.GPO{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px solid white;
+    overflow: hidden;
+}
+.img-GPO{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    overflow: calc();
+    animation: slide 20s linear infinite;
+}
+.DW{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px solid white;
+    overflow: hidden;
+}
+.img-DW{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    overflow: calc();
+    animation: slide 20s linear infinite;
+}
+.R2025{
+    max-width: 100%;
+    height: auto;
+    border-radius: 20px solid white;
+    overflow: hidden;
+}
+.img-2025{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    overflow: calc();
+    animation: slide 20s linear infinite;
+}
+
+h3{
+    color: rgb(0, 255, 0);
+    font-size: 30px;
+    background-color: lightyellow;
+    text-align: left;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+a{
+    text-align: center;
+    color: burlywood;
+}
+body{
+    background: radial-gradient(red , blue, black);
+    color: white;
+    text-align: center;
+}
